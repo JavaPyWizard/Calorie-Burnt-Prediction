@@ -1,0 +1,18 @@
+[
+    "Gender",
+    "Age",
+    "Height",
+    "Weight",
+    "Duration",
+    "Heart_Rate",
+    "Body_Temp",
+    "BMI",
+    "MET",
+    "Age_Group",
+    "Weight_Status",
+    "Duration_Weight",
+    "HeartRate_Duration",
+    "Duration_Temp",
+    "Weight_HeartRate",
+    "Intensity_Score"
+]

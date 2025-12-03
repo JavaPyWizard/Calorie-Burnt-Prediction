@@ -1,0 +1,17 @@
+feature,importance
+Intensity_Score,0.52090025
+HeartRate_Duration,0.44104826
+Age_Group,0.011103709
+Age,0.0075038876
+Heart_Rate,0.0060081827
+MET,0.0051126163
+Gender,0.004180303
+Weight_HeartRate,0.0022208383
+Duration_Temp,0.0006363516
+Duration_Weight,0.0005345414
+Weight,0.00047663882
+Height,0.0001134003
+Duration,6.94259e-05
+BMI,4.218825e-05
+Weight_Status,2.903516e-05
+Body_Temp,2.0301755e-05
